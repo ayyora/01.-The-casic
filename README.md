@@ -1,2 +1,2 @@
-# 01.-The-casic
+# 01.-The-basic
 Tugas pertama git hub
